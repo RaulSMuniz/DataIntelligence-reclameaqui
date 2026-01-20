@@ -2,7 +2,6 @@
 Este projeto é uma plataforma de Inteligência de Reputação que automatiza a coleta, o processamento e a visualização de indicadores de atendimento ao cliente extraídos do portal Reclame Aqui. Através de uma pipeline robusta, transformamos dados não estruturados da web em insights estratégicos para benchmarking competitivo. </br>
 
 <h3>🚀 Tecnologias Utilizadas</h3>
-- Interface: Streamlit (Dashboard Interativo)</br>
 - Extração de Dados: Selenium WebDriver (Web Scraping)</br>
 - Manipulação de Dados: Pandas</br>
 - Visualização: Streamlit
